@@ -64,7 +64,7 @@ This website is part of my portfolio showcasing my front-end development skills 
 ## 👤 Contact
 
 **Andrei Ivan**
-- Email: [andrei.ivan1208@gmail.com](mailto:andrei.ivan1208@gmail.com)
+- Email: [ivan.andrei@syncwithivan.com](mailto:ivan.andrei@syncwithivan.com)
 - GitHub: [NaviAndrei](https://github.com/NaviAndrei)
 
 ## 📄 License
